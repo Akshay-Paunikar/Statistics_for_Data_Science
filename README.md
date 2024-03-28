@@ -20,3 +20,4 @@
 18. Probability & Permutations Combinations
 19. A/B Testing
 20. Market Basket Analysis
+21. Complete_Statistics_Implementation_for_Data_Science
